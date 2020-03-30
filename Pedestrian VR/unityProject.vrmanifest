@@ -5,10 +5,10 @@
       "app_key": "application.generated.unity.newunityproject.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\TFG\\UnityProject\\New Unity Project\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "E:\\Users\\GitHub\\Serious-Game-TFG\\Pedestrian VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "New Unity Project [Testing]"
+          "name": "TBD [Testing]"
         }
       }
     }
